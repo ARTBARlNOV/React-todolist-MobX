@@ -1,0 +1,26 @@
+.Todo-container {
+    width: 300px;
+    height: 30px;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(40, 12, 255);
+    color: aliceblue;
+    border-radius: 5px;
+}
+
+.todo-text {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.todo-text-lineThrough {
+    cursor: pointer;
+    text-decoration: line-through;
+}
+
+.todo-delete {
+    cursor: pointer;
+}

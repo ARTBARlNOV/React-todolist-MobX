@@ -1,0 +1,10 @@
+.todolist-container {
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    top: 120px;
+    gap: 5px;
+}

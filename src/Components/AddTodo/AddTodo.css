@@ -1,0 +1,29 @@
+.addTodo-container {
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    padding: 14px 32px 14px 16px;
+    border-radius: 4px 0 0 4px;
+    border: 2px solid rgb(40, 12, 255);
+    outline: none;
+    background: transparent;
+  }
+  
+button {
+    padding: 16px 7px;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    outline: none;
+    background: linear-gradient(
+      90deg,
+      rgb(40, 12, 255) 0%,
+      rgb(17, 0, 250) 100%
+    );
+    color: #fff;
+    text-transform: capitalize;
+  }
