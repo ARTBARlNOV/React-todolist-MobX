@@ -1,2 +1,2 @@
-# React-todolist-MobX-
+# React-todolist-MobX
 Testing MobX
